@@ -37,4 +37,3 @@ the file you want to change, and paste in the changes. Then create a pull reques
         - For faster travel between locations
     - Shelter
         - To be able to rest in whatever location.
-
